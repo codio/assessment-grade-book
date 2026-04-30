@@ -1,0 +1,14 @@
+{
+  "name": "Grade book",
+  "type": "assessment",
+  "properties": {
+    "type": "grade-book",
+    "icon": "./icon.svg",
+    "noSettings": true,
+    "gradingControls": {
+      "points": true,
+      "allowPartialPoints": true,
+      "rubrics": true
+    }
+  }
+}
